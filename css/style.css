@@ -1,0 +1,99 @@
+﻿
+.container 
+{
+    margin: 100px auto;
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    background-color:silver;
+    border-radius:30px 0;
+}
+
+.sec1
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.facebook 
+{
+    background-color: #395a96;
+    width:fit-content;
+    float: left;
+    display: inline;
+    margin:30px 5px 10px 15px;
+    padding:5px;
+}
+.twitter {
+    background-color: #01b0ed;
+    width:fit-content;
+    float: right;
+    display: inline;
+    margin:30px 30px 10px 10px;
+    padding: 5px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+i
+{
+    color: white;
+}
+
+.or {
+    padding: 5px;
+    text-align: center;
+    background-color: #c7c7c7;
+    border-radius: 50%;
+    width:fit-content;
+    margin:10px auto;
+
+}
+
+.sec
+{
+
+}
+.name {
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    background-color: antiquewhite;
+    border-radius: 10px 0;
+}
+.password {
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    background-color: antiquewhite;
+    border-radius: 10px 0;
+}
+.sec4 {
+    margin-top:15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.forget
+{
+    color:black;
+}
+.log
+{
+    margin-left:10%;
+    margin-right:10%;
+    width: 80%;
+    background-color: #395a96;
+    margin-top: 20px;
+    padding: 10px;
+    color: white;
+    font-size: larger;
+}
+.sign 
+{
+    color: #395a96;
+}
+.sec5 {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
